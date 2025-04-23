@@ -1,12 +1,13 @@
 
 import './App.css'
+import ProductList from './pages/ProductList'
 
 function App() {
 
 
   return (
     <>
-      <div className='bg-amber-200'>hello</div>
+     <ProductList/>
     </>
   )
 }
